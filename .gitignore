@@ -1,0 +1,9 @@
+**/.bsp/
+**/.idea/
+**/target/
+**/*.iml
+*.log
+.DS_Store
+
+metastore_db
+spark-warehouse
